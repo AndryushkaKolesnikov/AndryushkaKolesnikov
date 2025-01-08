@@ -1,4 +1,4 @@
--  Hi, I’m Andryushka Kolesnikov
+-  Hi, I’m Andrei Kolesnikov
 -  I’m interested in Python and DataScience
 -  I’m currently learning in college with a degree in Information Systems and Programming
 -  
